@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Maulik Gupta</h1>
-<h3 align="center">AI/ML Engineer • MERN Developer • LangChain Enthusiast</h3>
+<h3 align="center">AI/ML Engineer • Python Developer • FastAPI Developer • GenAI Developer • LangChain Enthusiast • AI Systems Builder</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer;Full+Stack+Developer;LangChain+Developer;Fitness+Enthusiast&center=true&width=500&height=50">
