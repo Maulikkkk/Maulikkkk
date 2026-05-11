@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="[YOUR_BANNER_LINK](https://images.openai.com/static-rsc-4/mWHkJQUWvfJ_NA0zJEDXlyj23LZ7wOZqhM0s8NicBiiajsMitIjx5pVYaHTbAUn7E8f5aRgQnF7kH1DqwrJP0Xqcm8YJXlxAVXt6Ep86jzvK23SctBuAo6GOX6IyAG7yuagWdyoXaCeLQVEYMHs2TnV2qL3_mrE6VCeRQTheYpXdLMJOj1ne_bxXGYu4i7bK?purpose=fullsize)" />
+  <img src="https://images.openai.com/static-rsc-4/mWHkJQUWvfJ_NA0zJEDXlyj23LZ7wOZqhM0s8NicBiiajsMitIjx5pVYaHTbAUn7E8f5aRgQnF7kH1DqwrJP0Xqcm8YJXlxAVXt6Ep86jzvK23SctBuAo6GOX6IyAG7yuagWdyoXaCeLQVEYMHs2TnV2qL3_mrE6VCeRQTheYpXdLMJOj1ne_bxXGYu4i7bK?purpose=fullsize" />
 </p>
 
 <h1 align="center">Hi , I'm Maulik Gupta</h1>
 <h3 align="center">AI/ML Engineer • AI Systems Builder • GenAI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer;Full+Stack+Developer;LangChain+Developer;Fitness+Enthusiast&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI/ML+Engineer;Python+Developer;LangChain+Developer;GenAI+Enthusiast&center=true&width=500&height=50">
 </p>
 
 ---
@@ -69,6 +69,7 @@ Deep Neural Network project using PyTorch for power plant energy prediction.
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Maulikkkk&layout=compact&theme=tokyonight" />
+  </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maulikkkk&theme=tokyo-night" />
