@@ -28,7 +28,7 @@
 ## 👾 About Me
 
 ```python
-maulik = {
+Maulik = {
     "education": [
         "AI/ML Specialization @ IIT Indore",
         "B.Tech CSE @ Bennett University"
@@ -119,7 +119,6 @@ maulik = {
   </tr>
 </table>
 
-> 💡 *Each repo has a detailed README — feel free to explore!*
 
 ---
 
