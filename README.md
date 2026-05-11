@@ -30,8 +30,12 @@
 ```python
 Maulik = {
     "education": [
-        "AI/ML Specialization @ IIT Indore",
+        "AI/ML @ IIT Indore",
         "B.Tech CSE @ Bennett University"
+    ],
+    "experience": [
+        "Developer Intern @ Successive Digital",
+        "AI Intern @ CoreAgile Tech"
     ],
     "currently_building": "AI Agents, RAG Pipelines & LLM-powered Applications",
     "interests": ["Multi-Agent Systems", "LangGraph", "GenAI", "Automation"],
