@@ -40,10 +40,10 @@ Maulik = {
 }
 ```
 
-- 🤖 Building **production-grade AI systems** -agents, RAG apps, LLM workflows
-- 🧠 Deep-diving into **LangGraph multi-agent architectures** & agentic AI
-- ⚡ Backend-first mindset: **FastAPI + async Python** for AI services
-- 🌱 Always learning - currently exploring **tool-calling agents & vector search**
+- 🤖 Building **production grade AI systems** - agents, RAG apps, LLM workflows
+- 🧠 Deep diving into **LangGraph multi-agent architectures** & agentic AI
+- ⚡ Backend first mindset: **FastAPI + async Python** for AI services
+
 
 ---
 
