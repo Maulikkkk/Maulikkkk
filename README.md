@@ -60,11 +60,11 @@ Deep Neural Network project using PyTorch for power plant energy prediction.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maulikkkk&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maulikkkk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maulikkkk&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maulikkkk&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -78,5 +78,5 @@ Deep Neural Network project using PyTorch for power plant energy prediction.
 
 </p>
 
----
+
 
