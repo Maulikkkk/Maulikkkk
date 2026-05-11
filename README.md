@@ -8,12 +8,11 @@
 ---
 
 ## 🚀 About Me
-- AI/ML Specialization at IIT Indore
+- 🎓 AI/ML Specialization at IIT Indore
 - 🎓 B.Tech CSE at Bennett University
 - 🤖 Interested in AI Agents, RAG, LLM Applications & Automation
 - 💻 Python Developer focused on FastAPI & AI Systems
 - 🧠 Exploring Langchain, LangGraph, Multi-Agent Systems & GenAI
-- 💪 Fitness & Content Creation Enthusiast
 
 ---
 
@@ -30,7 +29,11 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-orange?style=for-the-badge&logo=pytorch)
 ![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-black?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface)
 ![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
+![Mistral AI](https://img.shields.io/badge/Mistral_AI-orange?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
 
 ### ⚙️ Backend & Databases
 ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)
@@ -73,13 +76,7 @@ Deep Neural Network project using PyTorch for power plant energy prediction.
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" />
 </a>
 
-<a href="https://instagram.com/_maulikkkk" target="blank">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="30" width="30" />
-</a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Maulikkkk&label=Profile%20Views&color=blue&style=flat" />
-</p>
