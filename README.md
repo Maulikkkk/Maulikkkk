@@ -50,31 +50,28 @@ maulik = {
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-darkblue?style=for-the-badge&logo=mysql)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### 🤖 AI / ML
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn)
-![PyTorch](https://img.shields.io/badge/PyTorch-orange?style=for-the-badge&logo=pytorch)
-![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-black?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface)
-![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
-![Mistral AI](https://img.shields.io/badge/Mistral_AI-orange?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
+![Scikit Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat)
+![LangGraph](https://img.shields.io/badge/-LangGraph-000000?style=flat)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Mistral AI](https://img.shields.io/badge/-MistralAI-FF7000?style=flat)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 ### ⚙️ Backend & Databases
-![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-
----
-
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
