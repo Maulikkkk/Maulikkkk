@@ -1,16 +1,82 @@
-## Hi there 👋
+<h1 align="center">Hi , I'm Maulik Gupta</h1>
+<h3 align="center">AI/ML Engineer • MERN Developer • LangChain Enthusiast</h3>
 
-<!--
-**Maulikkkk/Maulikkkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer;Full+Stack+Developer;LangChain+Developer;Fitness+Enthusiast&center=true&width=500&height=50">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- AI/ML Specialization at IIT Indore
+- 🎓 B.Tech CSE at Bennett University
+- 🤖 Interested in AI Agents, RAG, LLM Applications & Automation
+- 💻 MERN Stack Developer
+- 🧠 Exploring Langchain, LangGraph, Multi-Agent Systems & GenAI
+- 💪 Fitness & Content Creation Enthusiast
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+
+### 🤖 AI / ML
+![PyTorch](https://img.shields.io/badge/PyTorch-orange?style=for-the-badge&logo=pytorch)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn)
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
+
+### 🌐 Web Development
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss)
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Attendify AI
+AI-powered attendance assistant using LLM workflows and automation.
+
+### 🔹 RAG Application
+Document Question-Answering system using vector databases and LangChain.
+
+### 🔹 Energy Output Forecasting
+Deep Neural Network project using PyTorch for power plant energy prediction.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maulikkkk&show_icons=true&theme=tokyonight">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maulikkkk&theme=tokyonight">
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/maulikg29" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" />
+</a>
+
+<a href="https://instagram.com/_maulikkkk" target="blank">
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="30" width="30" />
+</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Maulikkkk&label=Profile%20Views&color=blue&style=flat" />
+</p>
