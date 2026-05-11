@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="[YOUR_BANNER_LINK](https://images.openai.com/static-rsc-4/mWHkJQUWvfJ_NA0zJEDXlyj23LZ7wOZqhM0s8NicBiiajsMitIjx5pVYaHTbAUn7E8f5aRgQnF7kH1DqwrJP0Xqcm8YJXlxAVXt6Ep86jzvK23SctBuAo6GOX6IyAG7yuagWdyoXaCeLQVEYMHs2TnV2qL3_mrE6VCeRQTheYpXdLMJOj1ne_bxXGYu4i7bK?purpose=fullsize)" />
+</p>
+
 <h1 align="center">Hi , I'm Maulik Gupta</h1>
 <h3 align="center">AI/ML Engineer • AI Systems Builder • GenAI Enthusiast</h3>
 
