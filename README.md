@@ -78,5 +78,5 @@ Deep Neural Network project using PyTorch for power plant energy prediction.
 
 </p>
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Maulikkkk&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
