@@ -69,20 +69,17 @@ Deep Neural Network project using PyTorch for power plant energy prediction.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maulikkkk&theme=tokyo-night" />
 </p>
-  
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Maulikkkk&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me on LinkedIn
 
 <p align="left">
-<a href="https://linkedin.com/in/maulikg29" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" />
-</a>
-
+  <a href="https://linkedin.com/in/maulikg29" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
+
 
 
 
