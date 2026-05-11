@@ -65,7 +65,7 @@ Deep Neural Network project using PyTorch for power plant energy prediction.
 
 <p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Maulikkkk&layout=compact&theme=tokyonight" />
   
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maulikkkk&theme=tokyo-night" />
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maulikkkk&theme=tokyo-night&hide=issues,prs" />
 </p>
 ---
 
