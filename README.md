@@ -7,9 +7,7 @@
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maulik%20Gupta-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/maulikg29)
-
 [![GitHub](https://img.shields.io/badge/GitHub-Maulikkkk-181717?style=flat-square&logo=github)](https://github.com/Maulikkkk)
-
 [![Email](https://img.shields.io/badge/Email-maulik.dev29%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maulik.dev29@gmail.com)
 
 
