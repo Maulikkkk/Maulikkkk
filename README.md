@@ -11,7 +11,7 @@
 - AI/ML Specialization at IIT Indore
 - 🎓 B.Tech CSE at Bennett University
 - 🤖 Interested in AI Agents, RAG, LLM Applications & Automation
-- 💻 MERN Stack Developer
+- 💻 Python Developer focused on FastAPI & AI Systems
 - 🧠 Exploring Langchain, LangGraph, Multi-Agent Systems & GenAI
 - 💪 Fitness & Content Creation Enthusiast
 
@@ -23,18 +23,21 @@
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-darkblue?style=for-the-badge&logo=mysql)
 
 ### 🤖 AI / ML
-![PyTorch](https://img.shields.io/badge/PyTorch-orange?style=for-the-badge&logo=pytorch)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn)
+![PyTorch](https://img.shields.io/badge/PyTorch-orange?style=for-the-badge&logo=pytorch)
 ![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-black?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
 
-### 🌐 Web Development
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+### ⚙️ Backend & Databases
+![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 
 ---
 
