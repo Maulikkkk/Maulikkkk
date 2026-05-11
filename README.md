@@ -83,9 +83,12 @@ maulik = {
       <h3>🎯 Attendify AI</h3>
       <p>AI-powered attendance management assistant built on LLM workflows and automation pipelines. Handles intelligent scheduling, query resolution, and attendance tracking via natural language.</p>
       <p>
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/dlib-2C2C2C?style=flat-square" />
+<img src="https://img.shields.io/badge/Librosa-CC5500?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
