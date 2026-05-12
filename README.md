@@ -83,7 +83,7 @@ Maulik = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔬 ResearchOS</h3>
+      <h3><a href="https://researchosdev.streamlit.app/">🔬 ResearchOS</a></h3>
       <p>Autonomous multi-agent AI research engine built on LangChain. Uses four specialized agents for searching, reading, writing, and reviewing to generate fully researched reports in real time.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -92,9 +92,10 @@ Maulik = {
         <img src="https://img.shields.io/badge/Tavily-4A90D9?style=flat-square" />
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
       </p>
+      <a href="https://researchosdev.streamlit.app/">🔗 Live Demo</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🎯 Attendify AI</h3>
+      <h3><a href="https://attendifyai.vercel.app/">🎯 Attendify AI</a></h3>
       <p>AI-powered attendance management assistant built on LLM workflows and automation pipelines. Handles intelligent scheduling, query resolution, and attendance tracking via natural language.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -104,6 +105,7 @@ Maulik = {
         <img src="https://img.shields.io/badge/dlib-2C2C2C?style=flat-square" />
         <img src="https://img.shields.io/badge/Librosa-CC5500?style=flat-square" />
       </p>
+      <a href="https://attendifyai.vercel.app/">🔗 Live Demo</a>
     </td>
   </tr>
   <tr>
@@ -123,6 +125,7 @@ Maulik = {
     </td>
   </tr>
 </table>
+
 ---
 
 ## 📊 GitHub Stats
