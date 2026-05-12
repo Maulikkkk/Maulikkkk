@@ -80,21 +80,33 @@ Maulik = {
 ---
 
 ## 🚀 Featured Projects
-
 <table>
   <tr>
+    <td width="50%" valign="top">
+      <h3>🔬 ResearchOS</h3>
+      <p>Autonomous multi-agent AI research engine built on LangChain. Chains four specialized agents — Search, Reader, Writer, and Critic — to deliver fully researched, self-reviewed reports in real time.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+        <img src="https://img.shields.io/badge/Mistral_AI-FF7000?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tavily-4A90D9?style=flat-square" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+      </p>
+    </td>
     <td width="50%" valign="top">
       <h3>🎯 Attendify AI</h3>
       <p>AI-powered attendance management assistant built on LLM workflows and automation pipelines. Handles intelligent scheduling, query resolution, and attendance tracking via natural language.</p>
       <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/dlib-2C2C2C?style=flat-square" />
-<img src="https://img.shields.io/badge/Librosa-CC5500?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/dlib-2C2C2C?style=flat-square" />
+        <img src="https://img.shields.io/badge/Librosa-CC5500?style=flat-square" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>📄 RAG Document Q&A System</h3>
       <p>End-to-end Retrieval-Augmented Generation system for intelligent document Q&A. Uses vector databases for semantic search and LangChain for LLM orchestration.</p>
@@ -104,17 +116,6 @@ Maulik = {
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square" />
       </p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ Energy Output Forecasting</h3>
-      <p>Deep Neural Network model built with PyTorch for predicting power plant energy output. Trained on multi-feature sensor data with custom regression architecture.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square" />
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square" />
-      </p>
-    </td>
     <td width="50%" valign="top">
       <h3>🔧 More coming soon...</h3>
       <p>Currently building new agentic AI projects. Stay tuned!</p>
@@ -122,8 +123,6 @@ Maulik = {
     </td>
   </tr>
 </table>
-
-
 ---
 
 ## 📊 GitHub Stats
