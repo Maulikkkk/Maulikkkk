@@ -84,7 +84,7 @@ Maulik = {
   <tr>
     <td width="50%" valign="top">
       <h3>🔬 ResearchOS</h3>
-      <p>Autonomous multi-agent AI research engine built on LangChain. Chains four specialized agents — Search, Reader, Writer, and Critic — to deliver fully researched, self-reviewed reports in real time.</p>
+      <p>Autonomous multi-agent AI research engine built on LangChain. Uses four specialized agents for searching, reading, writing, and reviewing to generate fully researched reports in real time.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
