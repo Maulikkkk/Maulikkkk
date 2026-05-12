@@ -96,7 +96,7 @@ Maulik = {
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://attendifyai.vercel.app/">🎯 Attendify AI</a></h3>
-      <p>AI-powered attendance management assistant built on automation pipelines. Handles intelligent scheduling, query resolution, and attendance tracking via natural language.</p>
+      <p>Attendify AI is an end-to-end AI-powered attendance system that automates classroom attendance using Face Recognition and Voice Biometrics. It eliminates manual roll calls and replaces them with fast, accurate, and scalable AI-based identification</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
